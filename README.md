@@ -1,2 +1,5 @@
 # NHLTradeDeadlineVIz
-Tableau visualizations for teams trying identifying players to pursue at the 2024 trade deadline 
+
+
+##Tableau visualizations for NHL teams trying identifying players to pursue at the 2024 trade deadline 
+
